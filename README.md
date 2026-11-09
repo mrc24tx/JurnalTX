@@ -3,7 +3,10 @@ Aplikasi Desktop untuk Jurnaling, Pencatatan, Diary. Lebih ringan dari Logseq ka
 
 *Desktop Application for Journaling, Daily Notes, Diary. Lighter than Logseq, because it is not a mini browser. For Linux OS. Tested well on Ubuntu 24.04. Indonesian Language.*
 
-Fitur / Features:
+---
+
+## Fitur / Features:
+
 Read --> [WIKI JURNALTX](https://github.com/mrc24tx/JurnalTX/wiki)
 
 ---
