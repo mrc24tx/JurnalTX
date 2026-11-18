@@ -1,4 +1,11 @@
 # JurnalTX
+
+<img width="200" height="200" alt="logojurnaltx" src="https://github.com/user-attachments/assets/3aba1629-acb1-4aac-ae92-1756546cc593" style="pading-top:25; padding-bottom:24" />
+
+<br>
+<br>
+
+
 Aplikasi desktop untuk Jurnaling, Pencatatan, Diary. Lebih ringan dari Logseq karena bukan mini browser. Untuk OS Linux. Tested well on Ubuntu 24.04.
 
 ---
