@@ -15,5 +15,5 @@ Aplikasi Desktop untuk Jurnaling, Pencatatan, Diary. Lebih ringan dari Logseq ka
 ---
 ## DOWNLOAD
 
-- Version 1.1.0
-  - Download Page: **[Download Page JurnalTX Versi 1.1.0](https://github.com/mrc24tx/JurnalTX/releases/tag/v1.1.0)**
+- Latest Version 1.1.0
+  - Download Page: **[Download Page JurnalTX V1.1.0](https://github.com/mrc24tx/JurnalTX/releases/tag/v1.1.0)**
