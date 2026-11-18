@@ -1,4 +1,4 @@
-# JurnalTX
+# JurnalTX - Journaling & Note Taking App
 
 <img width="200" height="200" alt="logojurnaltx" src="https://github.com/user-attachments/assets/3aba1629-acb1-4aac-ae92-1756546cc593" style="pading-top:25; padding-bottom:24" />
 
