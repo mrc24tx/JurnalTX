@@ -9,8 +9,8 @@ Aplikasi Desktop untuk Jurnaling, Pencatatan, Diary. Lebih ringan dari Logseq ka
 
 ## Fitur / Features:
 
-- Read: **[WIKI JURNALTX](https://github.com/mrc24tx/JurnalTX/wiki)** - English
-- Baca: **[WIKI JURNALTX](https://github.com/mrc24tx/JurnalTX/wiki/Beranda)** - Indonesian
+- Read: **[ENGLISH WIKI - JURNALTX](https://github.com/mrc24tx/JurnalTX/wiki)** - English
+- Baca: **[INDONESIAN WIKI - JURNALTX](https://github.com/mrc24tx/JurnalTX/wiki/Beranda)** - Indonesian
 
 ---
 ## DOWNLOAD
