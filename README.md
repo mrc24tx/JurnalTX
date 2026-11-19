@@ -6,11 +6,11 @@
 <br>
 
 
-Aplikasi desktop untuk Jurnaling, Pencatatan, Diary. Lebih ringan dari Logseq karena bukan mini browser. Untuk OS Linux. Tested well on Ubuntu 24.04.
+Aplikasi desktop untuk Jurnaling, Pencatatan, Diary. Lebih ringan dari Logseq karena bukan mini browser. Untuk OS Linux. Tested well on Ubuntu 24.04. Deteksi file assets orphan (file tak tertaut), jurnal dan catatan tersimpan dalam file markdown.
 
 ---
 
-*Desktop Application for Journaling, Daily Notes or Note-Taking, Diary. Lighter than Logseq, because it is not a mini browser. For Linux OS. Tested well on Ubuntu 24.04.*
+*Desktop Application for Journaling, Daily Notes or Note-Taking, Diary. Lighter than Logseq, because it is not a mini browser. For Linux OS. Tested well on Ubuntu 24.04. Orphan Assets files detection, journals and notes are saved on markdown file.*
 
 ---
 
